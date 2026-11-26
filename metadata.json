@@ -1,0 +1,6 @@
+{
+  "name": "TapeScope — US Equity Chart Pattern Scanner",
+  "description": "Quantitative US stock ticker scanner detecting classic technical chart patterns with real OHLCV market data, trendline geometry, and measured move targets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
